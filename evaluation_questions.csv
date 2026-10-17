@@ -1,0 +1,28 @@
+question,expected_document,expected_department,expected_answer_key_points,answer_available
+What is the procedure for admitting an emergency patient?,EM-01_Emergency_Admission_Policy.pdf,Emergency,Triage within 5 minutes; quick registration with emergency MRN; doctor assessment and consent; disposition decision; admission order and bed request to Bed Management ext 1150; ID wristband and SBAR handover; billing counselling only after stabilisation,Yes
+How soon must the triage nurse assess a patient after arrival in the ED?,EM-02_Triage_Guidelines.docx,Emergency,Within 5 minutes of arrival,Yes
+Within how many minutes should a Category 3 (Urgent) patient be seen?,EM-02_Triage_Guidelines.docx,Emergency,Category 3 is Yellow; seen within 30 minutes,Yes
+Can an emergency patient be turned away if they cannot pay the admission deposit?,EM-01_Emergency_Admission_Policy.pdf,Emergency,No; treatment is never delayed for payment; deposit can be deferred up to 24 hours after stabilisation,Yes
+Which documents are needed to register a new adult patient?,ADM-01_Patient_Registration_Procedure.docx,Admissions,Original CNIC (passport for foreigners); mobile number; insurance or panel card if applicable; referral letter if any,Yes
+By what time should a planned discharge order be written and what is the checkout time?,ADM-02_Inpatient_Admission_and_Discharge_Procedure.txt,Admissions,Discharge order by 10:00 AM; checkout time 12:00 noon,Yes
+Which two identifiers must staff use to confirm a patient's identity?,PS-01_Patient_Identification_Policy.pdf,Patient Safety,Full name plus MRN or date of birth; never room or bed number,Yes
+What does a red wristband mean?,PS-01_Patient_Identification_Policy.pdf,Patient Safety,Allergy alert,Yes
+How long should alcohol-based hand rub be rubbed on the hands?,PS-02_Infection_Prevention_Guidelines.docx,Patient Safety,20 to 30 seconds until dry; soap and water 40 to 60 seconds when hands are visibly soiled,Yes
+What should I do after a needle-stick injury?,PS-02_Infection_Prevention_Guidelines.docx,Patient Safety,"Wash with soap and running water, do not squeeze; inform nurse in-charge; go to ED or Occupational Health within 2 hours; inform Infection Control ext 1300; incident report within 24 hours",Yes
+At what Morse Fall Scale score is a patient considered high risk?,PS-03_Fall_Prevention_Policy.txt,Patient Safety,Score 45 or above; yellow wristband; hourly rounding,Yes
+What details must a prescription contain before the pharmacy dispenses it?,PH-01_Medication_Dispensing_Policy.pdf,Pharmacy,"Patient name and MRN; age (weight for children); generic name, strength, dose, route, frequency, duration; prescriber name, signature, PMDC number; date",Yes
+How are controlled drugs stored and checked?,PH-01_Medication_Dispensing_Policy.pdf,Pharmacy,Double-lock cabinet; counted by two persons at every shift change; discrepancies reported immediately to Pharmacy In-charge,Yes
+Which medicines are classified as high-alert medications?,PH-02_High_Alert_Medication_Guidelines.txt,Pharmacy,"Insulin, heparin, concentrated potassium chloride, magnesium sulfate, opioids, chemotherapy agents, neuromuscular blocking agents; independent double-check by two nurses",Yes
+What are the OPD pharmacy timings?,PH-03_Pharmacy_Counter_Timings.csv,Pharmacy,08:00 to 22:00 daily; extension 1530,Yes
+When do nursing handovers happen and which format is used?,NR-01_Nursing_Handover_Procedure.docx,Nursing,"7:00 AM, 3:00 PM and 11:00 PM; SBAR format; at the bedside; complete within 30 minutes",Yes
+Which Early Warning Score requires calling the Rapid Response Team?,NR-02_Vital_Signs_Monitoring_Policy.pdf,Nursing,Score of 7 or more; call extension 1777 immediately,Yes
+How much does an ICU bed cost per day and what deposit is required?,BF-04_Room_and_Bed_Charges.csv,Billing & Finance,"PKR 35,000 per day; deposit PKR 100,000",Yes
+Is there any fee for paying by credit card?,BF-02_Accepted_Payment_Methods.csv,Billing & Finance,"Yes, 1.5 percent processing fee; debit cards have no fee",Yes
+How long does it take to get a refund of an unused deposit?,BF-03_Insurance_and_Refund_Policy.docx,Billing & Finance,"Cash up to PKR 20,000 immediately at counter; above PKR 20,000 by transfer or crossed cheque within 7 working days; card refunds to same card within 10 working days",Yes
+What is the process for cashless insurance treatment and pre-authorization?,BF-03_Insurance_and_Refund_Policy.docx,Billing & Finance,Panel insurers only; card and CNIC to Insurance Desk ext 1710 at least 1 working day before planned admission; insurer replies in about 4 working hours; emergencies: insurer informed within 24 hours; 10 percent co-payment,Yes
+What is the monthly salary of a staff nurse at SHIFA?,NONE,NONE,Should say the answer could not be found in the available documents,No
+How can an outpatient book an MRI scan?,NONE,NONE,Should say the answer could not be found in the available documents,No
+What is the recommended paracetamol dose for a 5-year-old child?,NONE,NONE,Should say the answer could not be found; must not invent a clinical dose,No
+What is the hospital policy on organ donation and transplant?,NONE,NONE,Should say the answer could not be found in the available documents,No
+How much is the parking fee for visitors?,NONE,NONE,Should say the answer could not be found in the available documents,No
+Who is the current CEO of SHIFA General Hospital?,NONE,NONE,Should say the answer could not be found in the available documents,No
